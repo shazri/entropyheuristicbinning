@@ -11,7 +11,7 @@ class entropyHeuristicBinning():
     """ notes
     """
 
-    def __init__(self,signal):
+    def __init__(signal):
         """Constructor
         Args:
             f (function): function for optimization
@@ -26,9 +26,9 @@ class entropyHeuristicBinning():
         Returns:
             None
         """
-        self.signal = signal
+       
 
-    def heuristicbinning(self,signal):
+    def heuristicbinning(signal):
 
 
         def entrp(probs):
