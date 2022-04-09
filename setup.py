@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setup(
     name="entropy_heuristic_binning",
     version="0.0.3",
-    author="shazri shahrir",
+    author="shazri_shahrir",
     author_email="mdshazrishahrir@gmail.com",
     description="entropy heuristic binning",
     long_description=long_description,
